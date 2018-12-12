@@ -1,0 +1,19 @@
+{
+  "name": "react-mapbox",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.10"
+  },
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "mapbox-gl": "^0.39.1",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.84.0"
+  }
+}
